@@ -1,0 +1,8 @@
+.idea/
+.settings/
+.mymetadata
+.myumldata
+.project
+*.iml
+target/
+.classpath
